@@ -1,0 +1,27 @@
+body {
+  background-color: #996633;
+}
+#gameholder {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#title {
+  width: 600px;
+  height: 150px;
+  background-image: url("");
+}
+
+.mole1,
+.mole2,
+.mole3,
+.mole4,
+.mole5,
+.mole6,
+.mole7,
+.mole8 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("https://fscomps.fotosearch.com/compc/FSD/FSD568/mound-of-dirt-stock-image__x17090860.jpg");
+}
